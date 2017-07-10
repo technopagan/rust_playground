@@ -1,6 +1,0 @@
-[package]
-name = "prime_sieve"
-version = "0.0.1"
-authors = ["Tobias Baldauf <kontakt@tobias-baldauf.de>"]
-
-[dependencies]
