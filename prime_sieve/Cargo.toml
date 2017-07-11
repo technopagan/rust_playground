@@ -1,0 +1,8 @@
+[package]
+authors = ["Matthias Endler <matthias.endler@trivago.com>"]
+name = "prime_sieve"
+version = "0.1.0"
+
+[dependencies]
+clap = "2.25.0"
+error-chain = "0.10.0"
